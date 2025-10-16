@@ -7,6 +7,7 @@ public class test1 {
 		// TODO Auto-generated method stub
 System.out.println("Hellow");
 System.out.println("World");
+System.out.println("good");
 	}
 
 }
